@@ -49,6 +49,8 @@ Run the IslandDesigner application.
 
 Follow the on-screen prompts to interact with the traffic simulation program. The menu-based interface allows you to run Depth First Searches from any city to any other city, as well as finding the maximum network flow between cities. For extra credit, you can also use the shortest path algorithm to display the shortest path between cities.
 
+Keep in my mind to create a package name and include the package name in all the classes.
+
 ## Required Classes
 
 ## City
