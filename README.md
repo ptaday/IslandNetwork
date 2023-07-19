@@ -39,11 +39,11 @@ $ cd IslandNetwork
 ## Usage
 To compile 
 ```bash
-$ javac Main.java
+$ javac islandNetwork.java
 ```
 Run the DeliveryListManager application from the command line.
 ```bash
-$ java Main
+$ java islandNetwork
 ```
 Run the IslandDesigner application.
 
